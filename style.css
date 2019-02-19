@@ -1,0 +1,30 @@
+#ok {
+    width: 75px;
+    height: 40px;
+    margin-top: 40px;
+}
+
+body {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#var {
+    margin-left: 15px;
+    padding-left: 75px;
+}
+
+table {
+    margin-left: 20px;
+    margin-top: 55px;
+}
+
+#b,
+#a {
+    border-radius: 5px;
+}
+
+h1 {
+    color: green;
+    text-decoration: underline;
+}
